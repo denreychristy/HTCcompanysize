@@ -1,0 +1,15 @@
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\bin\Debug\net7.0\CompanySize.exe
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\bin\Debug\net7.0\CompanySize.deps.json
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\bin\Debug\net7.0\CompanySize.runtimeconfig.json
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\bin\Debug\net7.0\CompanySize.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\bin\Debug\net7.0\CompanySize.pdb
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.csproj.AssemblyReference.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.AssemblyInfoInputs.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.AssemblyInfo.cs
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.csproj.CoreCompileInputs.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\refint\CompanySize.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.pdb
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\CompanySize.genruntimeconfig.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\CompanySize\obj\Debug\net7.0\ref\CompanySize.dll
